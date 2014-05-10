@@ -2,26 +2,11 @@
   <type>toc</type>
   <prefix>Part</prefix>
   <num>C</num>
-  <heading>Issuance of Bonds.</heading>
+  <heading>Issuance of Bonds</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-392.11.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-392.12.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-392.13.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-392.14.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-392.15.xml"/>
-  <placeholder>
-    <type>Reserved</type>
-    <section-start>47-392.16</section-start>
-    <section-end>47-392.20</section-end>
-    <section-range-type>range</section-range-type>
-    <formerly-cited-as>DC ST 1981 § 47-392.16 to 47-392.20</formerly-cited-as>
-    <text>DC CODE § 47-392.16</text>
-  </placeholder>
-  <placeholder>
-    <type>Reserved</type>
-    <section-start>47-392.16</section-start>
-    <section-end>47-392.20</section-end>
-    <section-range-type>range</section-range-type>
-    <formerly-cited-as>DC ST 1981 § 47-392.16 to 47-392.20</formerly-cited-as>
-    <text>DC CODE § 47-392.20</text>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-392.16~47-392.20~P.xml"/>
 </level>

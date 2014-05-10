@@ -2,35 +2,14 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>VI</num>
-  <heading>Adopted Regional System. (Refs &amp; Annos)</heading>
+  <heading>Adopted Regional System</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.03.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.04.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.05.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.06.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>9-1111.07</section>
-    <heading>Periodic payments to Authority.</heading>
-    <formerly-cited-as>DC ST 1981 § 1-2459</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Dec. 9, 1969, Pub. L. 91-143, § 10; July 13, 1972, 86 Stat. 465, Pub. L. 92-349, title I, § 101; Jan. 3, 1980, 93 Stat. 1323, Pub. L. 96-184, § 3(c).)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 1-2459.</text>
-          <text>1973 Ed., § 1-1447.</text>
-          <text>DC CODE § 9-1111.07</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.07~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.08.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.09.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-1111.10.xml"/>

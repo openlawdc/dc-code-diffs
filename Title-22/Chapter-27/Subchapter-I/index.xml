@@ -2,30 +2,10 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General.</heading>
+  <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2701.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2701.01.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>22-2702</section>
-    <heading>Inmate or frequenter of house of ill fame.</heading>
-    <formerly-cited-as>DC ST 1981 § 22-2702</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Dec. 17, 1941, 55 Stat. 810, ch. 589, § 5.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 22-2702.</text>
-          <text>DC CODE § 22-2702</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2702~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2703.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2704.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2705.xml"/>
@@ -44,27 +24,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2718.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2719.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2720.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>22-2721</section>
-    <heading>Granting immunity to witnesses.</heading>
-    <formerly-cited-as>DC ST 1981 § 22-2721</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Oct. 15, 1970, 84 Stat. 931, Pub. L. 91-452, title II, § 256.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 22-2721.</text>
-          <text>DC CODE § 22-2721</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2721~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2722.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2723.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2724.xml"/>

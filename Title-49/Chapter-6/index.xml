@@ -2,7 +2,7 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>6</num>
-  <heading>Enlisted Personnel.</heading>
+  <heading>Enlisted Personnel</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-601.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="49-602.xml"/>
 </level>

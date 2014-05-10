@@ -2,37 +2,13 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>3</num>
-  <heading>Limitation of Actions.</heading>
+  <heading>Limitation of Actions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-301.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-302.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-303.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-304.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-305.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>12-306</section>
-    <heading>Directions as to debts in a will.</heading>
-    <formerly-cited-as>DC ST 1981 § 12-306</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(June 24, 1980, D.C. Law 3-72, § 202(b), 27 DCR 2155.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 12-306.</text>
-        </level>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For legislative history of D.C. Law 3-72, see Historical and Statutory Notes following § 12-305.</text>
-          <text>DC CODE § 12-306</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-306~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-307.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-308.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="12-309.xml"/>

@@ -2,22 +2,7 @@
   <type>toc</type>
   <prefix>Part</prefix>
   <num>E</num>
-  <heading>Amendments to the District of Columbia Election Act Amendments.</heading>
-  <placeholder>
-    <type>Omitted</type>
-    <section>1-207.51</section>
-    <heading>Amendments.</heading>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Miscellaneous Notes</heading>
-          <text>The text of § 1-207.51 is omitted because the corresponding text of section 751 of Public Law 93-198 amended another law.</text>
-          <text>DC CODE § 1-207.51</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <heading>Amendments to the District of Columbia Election Act Amendments</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-207.51~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-207.52.xml"/>
 </level>

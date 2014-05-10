@@ -2,36 +2,11 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>15</num>
-  <heading>Low-Level Radioactive Waste Generator Regulatory Policy.</heading>
+  <heading>Low-Level Radioactive Waste Generator Regulatory Policy</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1501.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1502.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1503.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>8-1504</section>
-    <heading>Fund; assessment.</heading>
-    <formerly-cited-as>DC ST 1981 § 6-3704</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Mar. 7, 1991, D.C. Law 8-226, § 5, 38 DCR 219; Sept. 14, 2011, D.C. Law 19-21, § 9069, 58 DCR 6226.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 6-3704.</text>
-        </level>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For legislative history of D.C. Law 8-226, see Historical and Statutory Notes following § 8-1501.</text>
-          <text>For history of Law 19-21, see notes under § 8-102.03.</text>
-          <text>DC CODE § 8-1504</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1504~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1505.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1506.xml"/>
 </level>

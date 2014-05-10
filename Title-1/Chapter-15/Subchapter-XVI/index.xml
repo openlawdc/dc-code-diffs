@@ -2,6 +2,6 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>XVI</num>
-  <heading>2000.</heading>
+  <heading>2000</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>
 </level>

@@ -4,7 +4,7 @@
   <heading>Civil action.</heading>
   <level>
     <num>(a)</num>
-    <text>The Attorney General of the District of Columbia may institute an action in the Superior Court of the District of Columbia against any person liable pursuant to § 8-1442 to recover all costs incurred by the District of Columbia.</text>
+    <text>The Attorney General of [for] the District of Columbia may institute an action in the Superior Court of the District of Columbia against any person liable pursuant to § 8-1442 to recover all costs incurred by the District of Columbia.</text>
   </level>
   <level>
     <num>(b)</num>
@@ -13,15 +13,16 @@
   <level>
     <type>annotations</type>
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Mar. 14, 2007, D.C. Law 16-262, § 304, 54 DCR 794.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 16-262, see notes following § 8-1441.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 8-1442.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 16-262</heading>
+      <text>For Law 16-262, see notes following § 8-1441.</text>
     </level>
   </level>
 </level>

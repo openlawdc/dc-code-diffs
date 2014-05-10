@@ -2,12 +2,8 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Statement of Purpose; Definitions. (Refs &amp; Annos)</heading>
-  <placeholder>
-    <type>Reserved</type>
-    <section>7-1301.01</section>
-    <text>DC CODE § 7-1301.01</text>
-  </placeholder>
+  <heading>Statement of Purpose; Definitions</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1301.01~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1301.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1301.03.xml"/>
 </level>

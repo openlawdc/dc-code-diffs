@@ -12,7 +12,7 @@
   </level>
   <level>
     <num>(c)</num>
-    <text>The Risk Officer and the captive manager shall serve as <text i="True">ex officio</text> members of the Advisory Council.</text>
+    <text>The Risk Officer and the captive manager shall serve as ex officio members of the Advisory Council.</text>
   </level>
   <level>
     <num>(d)</num>
@@ -53,20 +53,24 @@
   <level>
     <type>annotations</type>
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(July 18, 2008, D.C. Law 17-196, § 6, 55 DCR 6261; Mar. 25, 2009, D.C. Law 17-353, § 239, 56 DCR 1117.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Effect of Amendments</heading>
-        <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (e).</text>
-      </level>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 17-196, see notes following § 1-307.81.</text>
-        <text>For Law 17-353, see notes following § 1-129.05.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-307.81.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 17-353 validated a previously made technical correction in subsec. (e).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-196</heading>
+      <text>For Law 17-196, see notes following § 1-307.81.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 17-353</heading>
+      <text>For Law 17-353, see notes following § 1-129.05.</text>
     </level>
   </level>
 </level>

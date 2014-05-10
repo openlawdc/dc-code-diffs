@@ -2,7 +2,22 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>12</num>
-  <heading>Health Occupations Boards. (Refs &amp; Annos)</heading>
+  <heading>Health Occupations Boards</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-III/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-IV/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-V/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VI/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VI-A/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VI-B/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VI-C/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VII/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VII-A/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VII-B/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VII-C/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VII-D/index.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VII-E/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VIII/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VIII-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-VIII-B/index.xml"/>

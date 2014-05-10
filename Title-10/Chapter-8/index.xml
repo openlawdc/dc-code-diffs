@@ -2,7 +2,7 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>8</num>
-  <heading>Sale of Public Lands. (Refs &amp; Annos)</heading>
+  <heading>Sale of Public Lands</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
 </level>

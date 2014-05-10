@@ -15,7 +15,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>The GARVEE Bonds shall be tax-exempt or taxable as the Chief Financial Officer shall determine and shall be payable and secured as provided in § 9- 107.54.</text>
+      <text>The GARVEE Bonds shall be tax-exempt or taxable as the Chief Financial Officer shall determine and shall be payable and secured as provided in s 9-107.54.</text>
     </level>
   </level>
   <level>
@@ -25,15 +25,12 @@
   <level>
     <type>annotations</type>
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(Sept. 23, 2009, D.C. Law 18-54, § 3, 56 DCR 5694.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 18-54, see notes following § 9-107.51.</text>
-      </level>
+      <heading>Legislative History of Law 18-54</heading>
+      <text>For Law 18-54, see notes following § 9-107.51.</text>
     </level>
   </level>
 </level>

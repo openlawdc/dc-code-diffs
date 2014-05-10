@@ -2,43 +2,6 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>34</num>
-  <heading>Commission on Housing Production. [Expired]</heading>
-  <placeholder>
-    <type>Expired</type>
-    <section-start>3-3401</section-start>
-    <section-end>3-3405</section-end>
-    <section-range-type>range</section-range-type>
-    <heading>Definitions; established; duties; composition; qualifications; term of office; vacancies; quorum; meetings and public hearings; access to documents; annual report; reimbursement of members' expenses; funding.</heading>
-    <formerly-cited-as>DC ST 1981 § 2-3001 to 2-3005</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., §§ 2-3001 to 2-3005.</text>
-          <text>DC CODE § 3-3401</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
-  <placeholder>
-    <type>Expired</type>
-    <section-start>3-3401</section-start>
-    <section-end>3-3405</section-end>
-    <section-range-type>range</section-range-type>
-    <heading>Definitions; established; duties; composition; qualifications; term of office; vacancies; quorum; meetings and public hearings; access to documents; annual report; reimbursement of members' expenses; funding.</heading>
-    <formerly-cited-as>DC ST 1981 § 2-3001 to 2-3005</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., §§ 2-3001 to 2-3005.</text>
-          <text>DC CODE § 3-3405</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <heading>Commission on Housing Production</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-3401~3-3405~P.xml"/>
 </level>
