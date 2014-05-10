@@ -1,0 +1,58 @@
+<level>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>Probation. (Refs &amp; Annos)</heading>
+  <placeholder>
+    <type>Repealed</type>
+    <section>24-301</section>
+    <heading>Probation system;  probation officers;  appointment.  </heading>
+    <formerly-cited-as>DC ST 1981 § 24-101</formerly-cited-as>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>CREDIT(S)</heading>
+        <text>(Oct. 21, 1998, 112 Stat. 2425, Pub. L. 105-274, § 6(c)(2)(A).)</text>
+      </level>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Prior Codifications</heading>
+          <text>1981 Ed., § 24-101.</text>
+        </level>
+        <level>
+          <heading>Effective Dates</heading>
+          <text>Pub.L. 105-274, § 10, Oct. 21, 1998, 112 Stat. 2429, provides:</text>
+          <text>"SEC. 10. EFFECTIVE DATE.</text>
+          <text>"Except as otherwise specifically provided, this Act and the amendments made by this Act shall take effect as if included in the enactment of title XI of the Balanced Budget Act of 1997."</text>
+          <text>DC CODE § 24-301</text>
+        </level>
+      </level>
+    </level>
+  </placeholder>
+  <placeholder>
+    <type>Repealed</type>
+    <section>24-302</section>
+    <heading>When probation may be granted; statement to probationers; rules and regulations.</heading>
+    <formerly-cited-as>DC ST 1981 § 24-102</formerly-cited-as>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>CREDIT(S)</heading>
+        <text>(Dec. 23, 1963, 77 Stat. 626, Pub. L. 88-241, § 21.)</text>
+      </level>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Prior Codifications</heading>
+          <text>1981 Ed., § 24-102.</text>
+          <text>DC CODE § 24-302</text>
+        </level>
+      </level>
+    </level>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-304.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-305.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-306.xml"/>
+</level>

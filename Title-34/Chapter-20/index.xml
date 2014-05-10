@@ -1,0 +1,15 @@
+<level>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>20</num>
+  <heading>Telecommunications Competition. (Refs &amp; Annos)</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2001.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2002.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2003.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2003.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2004.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2005.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2006.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2007.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2008.xml"/>
+</level>

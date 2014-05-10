@@ -1,0 +1,48 @@
+<level>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>2A</num>
+  <heading>Lead-Hazard Prevention and Elimination.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.05.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.06.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.08.xml"/>
+  <placeholder>
+    <type>Repealed</type>
+    <section>8-231.09</section>
+    <heading>Lead Poisoning Prevention Fund.</heading>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>CREDIT(S)</heading>
+        <text>(Mar. 31, 2009, D.C. Law 17-381, § 10, 56 DCR 1596; Mar. 31, 2011, D.C. Law 18-348, § 2(g), 58 DCR 717; Sept. 14, 2011, D.C. Law 19-21, § 9090, 58 DCR 6226.)</text>
+      </level>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Legislative History of Laws</heading>
+          <text>For Law 17-381, see notes following § 8-231.01.</text>
+          <text>For history of Law 18-348, see notes under § 8-231.01.</text>
+          <text>For history of Law 19-21, see notes under § 8-102.03.</text>
+          <text>DC CODE § 8-231.09</text>
+        </level>
+      </level>
+    </level>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.11.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.12.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.13.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.14.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.15.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.16.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.17.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.18.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.18a.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.19.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-231.20.xml"/>
+</level>

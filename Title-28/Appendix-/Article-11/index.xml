@@ -1,0 +1,19 @@
+<level>
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>11</num>
+  <heading>Effective Date and Transition Provisions.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_11-101.xml"/>
+  <placeholder>
+    <type>Omitted</type>
+    <section>28:11-102</section>
+    <formerly-cited-as>DC ST 1981 § 28:11-102</formerly-cited-as>
+    <text>DC CODE § 28:11-102</text>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_11-103.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_11-104.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_11-105.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_11-106.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_11-107.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_11-108.xml"/>
+</level>

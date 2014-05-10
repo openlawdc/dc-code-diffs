@@ -1,0 +1,10 @@
+<level>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>I</num>
+  <heading>General Provisions. (Refs &amp; Annos)</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-801.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-802.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-803.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-804.xml"/>
+</level>

@@ -1,0 +1,101 @@
+<level>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Borrowing.</heading>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-321</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-322</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-323</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-324</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-325</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-326</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-327</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-328</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-329</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-330</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-331</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-332</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-321</section-start>
+    <section-end>47-333</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-333</text>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-334.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-335.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-335.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-335.02.xml"/>
+</level>

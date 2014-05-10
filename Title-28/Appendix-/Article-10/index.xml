@@ -1,0 +1,24 @@
+<level>
+  <type>toc</type>
+  <prefix>Article</prefix>
+  <num>10</num>
+  <heading>Construction with Other Laws.</heading>
+  <placeholder>
+    <type>Omitted</type>
+    <section-start>28:10-101</section-start>
+    <section-end>28:10-102</section-end>
+    <section-range-type>range</section-range-type>
+    <formerly-cited-as>DC ST 1981 § 28:10-101</formerly-cited-as>
+    <text>DC CODE § 28:10-101</text>
+  </placeholder>
+  <placeholder>
+    <type>Omitted</type>
+    <section-start>28:10-101</section-start>
+    <section-end>28:10-102</section-end>
+    <section-range-type>range</section-range-type>
+    <formerly-cited-as>DC ST 1981 § 28:10-101</formerly-cited-as>
+    <text>DC CODE § 28:10-102</text>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_10-103.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_10-104.xml"/>
+</level>

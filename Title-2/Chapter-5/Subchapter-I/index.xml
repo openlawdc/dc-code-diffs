@@ -1,0 +1,61 @@
+<level>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>I</num>
+  <heading>Administrative Procedure. (Refs &amp; Annos)</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-501.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-502.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-503.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-504.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-505.xml"/>
+  <placeholder>
+    <type>Repealed</type>
+    <section>2-506</section>
+    <heading>Filing and publishing of rules.</heading>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>CREDIT(S)</heading>
+        <text>(Oct. 21, 1968, 82 Stat. 1207, Pub. L. 90-614, § 7; Oct. 8, 1975, D.C. Law 1-19, title I, § 102(g), 22 DCR 2048; Mar. 29, 1977, D.C. Law 1-96; § 3(a), (c); Mar. 6, 1979, D.C. Law 2-153, § 6(b), 25 DCR 6960.)</text>
+      </level>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Prior Codifications</heading>
+          <text>1981 Ed., Omitted.</text>
+          <text>1973 Ed., § 1-1506.</text>
+          <text>DC CODE § 2-506</text>
+        </level>
+      </level>
+    </level>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-507.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-508.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-509.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-510.xml"/>
+  <placeholder>
+    <type>Repealed</type>
+    <section>2-511</section>
+    <heading>Interpreters for the deaf.</heading>
+    <formerly-cited-as>DC ST 1981 § 1-1511</formerly-cited-as>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>CREDIT(S)</heading>
+        <text>(Oct. 21, 1968, 82 Stat. 1209, Pub. L. 90-614, § 12; Feb. 11, 1982, D.C. Law 4-67, § 2(b), 28 DCR 5043; Jan. 28, 1988, D.C. Law 7-62, § 14(b), 34 DCR 7426.)</text>
+      </level>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Prior Codifications</heading>
+          <text>1981 Ed., § 1-1511.</text>
+        </level>
+        <level>
+          <heading>Legislative History of Laws</heading>
+          <text>For legislative history of D.C. Law 7-62, see Historical and Statutory Notes following § 2-510.</text>
+          <text>DC CODE § 2-511</text>
+        </level>
+      </level>
+    </level>
+  </placeholder>
+</level>

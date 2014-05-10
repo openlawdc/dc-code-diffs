@@ -1,0 +1,75 @@
+<level>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>I-A</num>
+  <heading>Chief Financial Officer of the District of Columbia. (Refs &amp; Annos)</heading>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-317.01</section-start>
+    <section-end>47-317.03</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-317.01</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-317.01</section-start>
+    <section-end>47-317.03</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-317.02</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section-start>47-317.01</section-start>
+    <section-end>47-317.03</section-end>
+    <section-range-type>range</section-range-type>
+    <text>DC CODE § 47-317.03</text>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.03a.xml"/>
+  <placeholder>
+    <type>Reserved</type>
+    <section>47-317.04</section>
+    <text>DC CODE § 47-317.04</text>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.04a.xml"/>
+  <placeholder>
+    <type>Reserved</type>
+    <section>47-317.05</section>
+    <text>DC CODE § 47-317.05</text>
+  </placeholder>
+  <placeholder>
+    <type>Reserved</type>
+    <section>47-317.06</section>
+    <formerly-cited-as>DC ST 1981 § 47-317.6</formerly-cited-as>
+    <text>DC CODE § 47-317.06</text>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-317.07.xml"/>
+  <placeholder>
+    <type>Repealed</type>
+    <section>47-317.08</section>
+    <heading>Compliance and Real Property Tax Administration Fund.</heading>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>CREDIT(S)</heading>
+        <text>(Oct. 20, 2005, D.C. Law 16-33, § 1072(b), 52 DCR 7503; Sept. 14, 2011, D.C. Law 19-21, § 9015, 58 DCR 6226.)</text>
+      </level>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Emergency Act Amendments</heading>
+          <text>For temporary (90 day) addition of section, see § 1072(b) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005, 52 DCR 7667).</text>
+        </level>
+        <level>
+          <heading>Legislative History of Laws</heading>
+          <text>For Law 16-33, see notes following § 47-308.01.</text>
+          <text>For Law 19-21, see notes following § 47-305.02.</text>
+        </level>
+        <level>
+          <heading>Miscellaneous Notes</heading>
+          <text>Short title of subtitle N of title I of Law 16-33: Section 1071 of D.C. Law 16-33 provided that subtitle M of title I of the act may be cited as the Establishment of Compliance and Real Property Tax Administration Fund Act of 2005.</text>
+          <text>DC CODE § 47-317.08</text>
+        </level>
+      </level>
+    </level>
+  </placeholder>
+</level>

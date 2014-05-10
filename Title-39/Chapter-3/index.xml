@@ -1,0 +1,15 @@
+<level>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>3</num>
+  <heading>Museum of the City of Washington. (Refs &amp; Annos)</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-301.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-302.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-303.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-304.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-305.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-306.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-307.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-308.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="39-309.xml"/>
+</level>

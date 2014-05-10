@@ -1,0 +1,42 @@
+<level>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>III</num>
+  <heading>Wire Interception and Interception of Oral Communications. (Refs &amp; Annos)</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-541.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-542.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-543.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-544.xml"/>
+  <placeholder>
+    <type>Repealed</type>
+    <section>23-545</section>
+    <heading>Immunity of witnesses.</heading>
+    <formerly-cited-as>DC ST 1981 § 23-545</formerly-cited-as>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>CREDIT(S)</heading>
+        <text>(Oct. 15, 1970, 84 Stat. 931, Pub. L. 91-452, title II, § 252.)</text>
+      </level>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Prior Codifications</heading>
+          <text>1981 Ed., § 23-545.</text>
+          <text>DC CODE § 23-545</text>
+        </level>
+      </level>
+    </level>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-546.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-547.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-548.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-549.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-550.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-551.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-552.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-553.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-554.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-555.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="23-556.xml"/>
+</level>

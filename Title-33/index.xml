@@ -1,0 +1,27 @@
+<level>
+  <type>toc</type>
+  <prefix>Title</prefix>
+  <num>33</num>
+  <heading>Partnerships. [Repealed] (Refs &amp; Annos)</heading>
+  <level>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
+    <num>I</num>
+    <heading>General. [Repealed]</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
+  </level>
+  <level>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
+    <num>II</num>
+    <heading>Repealed.</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-4/index.xml"/>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5/index.xml"/>
+  </level>
+</level>

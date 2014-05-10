@@ -1,0 +1,43 @@
+<level>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
+  <num>II</num>
+  <heading>Omitted and Repealed Provisions.</heading>
+  <placeholder>
+    <type>Omitted</type>
+    <section-start>24-631</section-start>
+    <section-end>24-643</section-end>
+    <section-range-type>range</section-range-type>
+    <formerly-cited-as>DC ST 1981 § 24-501 to 24-513</formerly-cited-as>
+    <text>DC CODE § 24-631</text>
+  </placeholder>
+  <placeholder>
+    <type>Omitted</type>
+    <section-start>24-631</section-start>
+    <section-end>24-643</section-end>
+    <section-range-type>range</section-range-type>
+    <formerly-cited-as>DC ST 1981 § 24-501 to 24-513</formerly-cited-as>
+    <text>DC CODE § 24-643</text>
+  </placeholder>
+  <placeholder>
+    <type>Repealed</type>
+    <section>24-644</section>
+    <heading>Advisory committee.</heading>
+    <formerly-cited-as>DC ST 1981 § 24-514</formerly-cited-as>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>CREDIT(S)</heading>
+        <text>(Aug. 3, 1968, 82 Stat. 624, Pub. L. 90-452, § 3(c).)</text>
+      </level>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Prior Codifications</heading>
+          <text>1981 Ed., § 24-514.</text>
+          <text>DC CODE § 24-644</text>
+        </level>
+      </level>
+    </level>
+  </placeholder>
+</level>

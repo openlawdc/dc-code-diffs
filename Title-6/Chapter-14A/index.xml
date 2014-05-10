@@ -1,0 +1,38 @@
+<level>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
+  <num>14A</num>
+  <heading>Green Building Requirements.</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1451.01.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1451.02.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1451.03.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1451.04.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1451.05.xml"/>
+  <placeholder>
+    <type>Repealed</type>
+    <section>6-1451.06</section>
+    <heading>Incentives.</heading>
+    <level>
+      <type>annotations</type>
+      <level>
+        <heading>CREDIT(S)</heading>
+        <text>(Mar. 8, 2007, D.C. Law 16-234, § 7, 54 DCR 377; Mar. 31, 2011, D.C. Law 18-349, § 2(e), 58 DCR 724; June 5, 2012, D.C. Law 19-139, § 2(e), 59 DCR 2555.)</text>
+      </level>
+      <level>
+        <heading>HISTORICAL AND STATUTORY NOTES</heading>
+        <level>
+          <heading>Legislative History of Laws</heading>
+          <text>For Law 16-234, see notes following § 6-1451.01.</text>
+          <text>For history of Law 18-349, see notes under § 6-1451.01.</text>
+          <text>For history of Law 19-139, see notes under § 6-1412.</text>
+          <text>DC CODE § 6-1451.06</text>
+        </level>
+      </level>
+    </level>
+  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1451.07.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1451.08.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1451.09.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1451.10.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-1451.11.xml"/>
+</level>
