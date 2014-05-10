@@ -1,0 +1,93 @@
+<level>
+  <type>section</type>
+  <num>28:8-106</num>
+  <heading>Control.</heading>
+  <level>
+    <num>(a)</num>
+    <text>A purchaser has "control" of a certificated security in bearer form if the certificated security is delivered to the purchaser.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>A purchaser has "control" of a certificated security in registered form if the certificated security is delivered to the purchaser, and:</text>
+    <level>
+      <num>(1)</num>
+      <text>The certificate is indorsed to the purchaser or in blank by an effective indorsement; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The certificate is registered in the name of the purchaser, upon original issue or registration of transfer by the issuer.</text>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>A purchaser has "control" of an uncertificated security if:</text>
+    <level>
+      <num>(1)</num>
+      <text>The uncertificated security is delivered to the purchaser; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The issuer has agreed that it will comply with instructions originated by the purchaser without further consent by the registered owner.</text>
+    </level>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>A purchaser has "control" of a security entitlement if:</text>
+    <level>
+      <num>(1)</num>
+      <text>The purchaser becomes the entitlement holder;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The securities intermediary has agreed that it will comply with entitlement orders originated by the purchaser without further consent by the entitlement holder; or</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Another person has control of the security entitlement on behalf of the purchaser or, having previously acquired control of the security entitlement, acknowledges that it has control on behalf of the purchaser.</text>
+    </level>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>If an interest in a security entitlement is granted by the entitlement holder to the entitlement holder's own securities intermediary, the securities intermediary has control.</text>
+  </level>
+  <level>
+    <num>(f)</num>
+    <text>A purchaser who has satisfied the requirements of subsection (c) or (d) has control, even if the registered owner in the case of subsection (c) or the entitlement holder in the case of subsection (d) retains the right to make substitutions for the uncertificated security or security entitlement, to originate instructions or entitlement orders to the issuer or securities intermediary, or otherwise to deal with the uncertificated security or security entitlement.</text>
+  </level>
+  <level>
+    <num>(g)</num>
+    <text>An issuer or a securities intermediary may not enter into an agreement of the kind described in subsection (c)(2) or (d)(2) of this section without the consent of the registered owner or entitlement holder, but an issuer or a securities intermediary is not required to enter into such an agreement even though the registered owner or entitlement holder so directs. An issuer or securities intermediary that has entered into such an agreement is not required to confirm the existence of the agreement to another party unless requested to do so by the registered owner or entitlement holder.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>History</heading>
+      <text>(Apr. 9, 1997, D.C. Law 11-240, § 2, 44 DCR 1087; Oct. 26, 2000, D.C. Law 13-201, § 201(i)(2), 47 DCR 7576.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:8-102, § 28:8-107, § 28:8-510, § 28:9-106, § 28:9-208, and § 28:9-328.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28:8-106.</text>
+      <text>1973 Ed., § 28:8-106.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>D.C. Law 13-201, enacting a new Article 9 of the Uniform Commercial Code applicable July 1, 2001, made conforming amendments to this section applicable upon the same date.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-196</heading>
+      <text>For legislative history of D.C. Law 9-196, see Historical and Statutory Notes following § 28:8-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-240</heading>
+      <text>For legislative history of D.C. Law 11-240, see Historical and Statutory Notes following § 28:8-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-201</heading>
+      <text>For Law 13-201, see notes following § 28:8-103.</text>
+    </level>
+  </level>
+</level>

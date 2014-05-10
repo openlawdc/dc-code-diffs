@@ -2,7 +2,7 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General. (Refs &amp; Annos)</heading>
+  <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-801.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-802.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-803.xml"/>

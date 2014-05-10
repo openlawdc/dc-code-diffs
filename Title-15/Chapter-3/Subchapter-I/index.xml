@@ -2,7 +2,7 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Local Judgments and Decrees.</heading>
+  <heading>Local Judgments and Decrees</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-301.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-302.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-303.xml"/>
@@ -12,27 +12,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-307.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-308.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-309.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>15-310</section>
-    <heading>Lien of execution on Court of General Sessions judgment;  levy.  </heading>
-    <formerly-cited-as>DC ST 1981 § 15-310</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(July 29, 1970, 84 Stat. 553, Pub. L. 91-358, title I, § 144(6)(A).)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 15-310.</text>
-          <text>DC CODE § 15-310</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-310~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-311.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-312.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-313.xml"/>

@@ -2,7 +2,7 @@
   <type>toc</type>
   <prefix>Unit</prefix>
   <num>A</num>
-  <heading>Procurement Practices for the District Government.</heading>
+  <heading>Procurement Practices for the District Government</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-I/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-II/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-III/index.xml"/>
@@ -15,5 +15,4 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-X/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-X-A/index.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XI/index.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Subchapter-XII/index.xml"/>
 </level>

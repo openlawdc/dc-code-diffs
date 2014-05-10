@@ -2,73 +2,13 @@
   <type>toc</type>
   <prefix>Part</prefix>
   <num>E</num>
-  <heading>Miscellaneous.</heading>
-  <placeholder>
-    <type>Omitted</type>
-    <section-start>10-1203.01</section-start>
-    <section-end>10-1203.04</section-end>
-    <section-range-type>range</section-range-type>
-    <text>DC CODE § 10-1203.01</text>
-  </placeholder>
-  <placeholder>
-    <type>Omitted</type>
-    <section-start>10-1203.01</section-start>
-    <section-end>10-1203.04</section-end>
-    <section-range-type>range</section-range-type>
-    <text>DC CODE § 10-1203.04</text>
-  </placeholder>
+  <heading>Miscellaneous</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1203.01~10-1203.04~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1203.05.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1203.06.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1203.07.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1211.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1212.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>10-1213</section>
-    <heading>Findings.</heading>
-    <formerly-cited-as>DC ST 1981 § 9-601</formerly-cited-as>
-    <text>Recodified as § 10-1273.</text>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Sept. 28, 1994, D.C. Law 10-188, § 401, 41 DCR 5333.)</text>
-        <text>DC CODE § 10-1213</text>
-      </level>
-    </level>
-  </placeholder>
-  <placeholder>
-    <type>Repealed</type>
-    <section-start>10-1214</section-start>
-    <section-end>10-1220</section-end>
-    <section-range-type>range</section-range-type>
-    <heading>Duties and responsibilities of General Manager; Washington Convention Center Fund--established; limitation on assets; deposits; expenditures; billings and collections; transfer of excess operating profits; Antideficiency Act applicable; annual audit; report; conflict of interest; annual report; appropriations; merit system inapplicable.</heading>
-    <formerly-cited-as>DC ST 1981 § 9-604 to 9-610</formerly-cited-as>
-    <text>Recodified as §§ 10-1274 to 10-1280.</text>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Sept. 28, 1994, D.C. Law 10-188, § 401, 41 DCR 5333.)</text>
-        <text>DC CODE § 10-1214</text>
-      </level>
-    </level>
-  </placeholder>
-  <placeholder>
-    <type>Repealed</type>
-    <section-start>10-1214</section-start>
-    <section-end>10-1220</section-end>
-    <section-range-type>range</section-range-type>
-    <heading>Duties and responsibilities of General Manager; Washington Convention Center Fund--established; limitation on assets; deposits; expenditures; billings and collections; transfer of excess operating profits; Antideficiency Act applicable; annual audit; report; conflict of interest; annual report; appropriations; merit system inapplicable.</heading>
-    <formerly-cited-as>DC ST 1981 § 9-604 to 9-610</formerly-cited-as>
-    <text>Recodified as §§ 10-1274 to 10-1280.</text>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Sept. 28, 1994, D.C. Law 10-188, § 401, 41 DCR 5333.)</text>
-        <text>DC CODE § 10-1220</text>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1211~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1212~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1213~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1214~10-1220~P.xml"/>
 </level>

@@ -1,0 +1,80 @@
+<level>
+  <type>section</type>
+  <num>28:9-305</num>
+  <heading>Law governing perfection and priority of security interests in investment property.</heading>
+  <level>
+    <num>(a)</num>
+    <text>Except as otherwise provided in subsection (c), the following rules apply:</text>
+    <level>
+      <num>(1)</num>
+      <text>While a security certificate is located in a jurisdiction, the local law of that jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in the certificated security represented thereby.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The local law of the issuer's jurisdiction as specified in § 28:8-110(d) governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in an uncertificated security.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>The local law of the securities intermediary's jurisdiction as specified in § 28:8-110(e) governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in a security entitlement or securities account.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>The local law of the commodity intermediary's jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in a commodity contract or commodity account.</text>
+    </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>The following rules determine a commodity intermediary's jurisdiction for purposes of this part:</text>
+    <level>
+      <num>(1)</num>
+      <text>If an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that a particular jurisdiction is the commodity intermediary's jurisdiction for purposes of this part, this article, or Subtitle I of Title 28, that jurisdiction is the commodity intermediary's jurisdiction.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>If paragraph (1) of this subsection does not apply and an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that the agreement is governed by the law of a particular jurisdiction, that jurisdiction is the commodity intermediary's jurisdiction.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>If neither paragraph (1) nor paragraph (2) of this subsection applies and an agreement between the commodity intermediary and commodity customer governing the commodity account expressly provides that the commodity account is maintained at an office in a particular jurisdiction, that jurisdiction is the commodity intermediary's jurisdiction.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>If none of the preceding paragraphs of this subsection applies, the commodity intermediary's jurisdiction is the jurisdiction in which the office identified in an account statement as the office serving the commodity customer's account is located.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>If none of the preceding paragraphs of this subsection applies, the commodity intermediary's jurisdiction is the jurisdiction in which the chief executive office of the commodity intermediary is located.</text>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>The local law of the jurisdiction in which the debtor is located governs:</text>
+    <level>
+      <num>(1)</num>
+      <text>Perfection of a security interest in investment property by filing;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Automatic perfection of a security interest in investment property created by a broker or securities intermediary; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>Automatic perfection of a security interest in a commodity contract or commodity account created by a commodity intermediary.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>History</heading>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:9-316.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-201</heading>
+      <text>For Law 13-201, see notes following § 28:9-101.</text>
+    </level>
+  </level>
+</level>

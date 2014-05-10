@@ -2,12 +2,12 @@
   <type>toc</type>
   <prefix>Title</prefix>
   <num>35</num>
-  <heading>Railroads and Other Carriers. (Refs &amp; Annos)</heading>
+  <heading>Railroads and Other Carriers</heading>
   <level>
     <type>toc</type>
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>General.</heading>
+    <heading>General</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
@@ -16,7 +16,7 @@
     <type>toc</type>
     <prefix>Subtitle</prefix>
     <num>II</num>
-    <heading>Repealed Provisions.</heading>
+    <heading>Repealed Provisions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-4/index.xml"/>
   </level>
 </level>

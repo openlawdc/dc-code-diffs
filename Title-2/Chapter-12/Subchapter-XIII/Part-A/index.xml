@@ -2,17 +2,9 @@
   <type>toc</type>
   <prefix>Part</prefix>
   <num>A</num>
-  <heading>Reorganization of Ncrc and Awc.</heading>
+  <heading>Reorganization of Ncrc and Awc</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1225.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1225.02.xml"/>
-  <placeholder>
-    <type>Reserved</type>
-    <section>2-1225.03</section>
-    <text>DC CODE § 2-1225.03</text>
-  </placeholder>
-  <placeholder>
-    <type>Reserved</type>
-    <section>2-1225.04</section>
-    <text>DC CODE § 2-1225.04</text>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1225.03~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1225.04~P.xml"/>
 </level>

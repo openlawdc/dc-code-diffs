@@ -2,27 +2,7 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>7</num>
-  <heading>Trial. [Repealed]</heading>
-  <placeholder>
-    <type>Repealed</type>
-    <section>13-701</section>
-    <heading>Special juries in District Court.</heading>
-    <formerly-cited-as>DC ST 1981 § 13-701</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Mar. 27, 1968, 82 Stat. 62, Pub. L. 90-274, § 103(a).)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 13-701.</text>
-          <text>DC CODE § 13-701</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="13-702.xml"/>
+  <heading>Trial</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="13-701~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="13-702~P.xml"/>
 </level>

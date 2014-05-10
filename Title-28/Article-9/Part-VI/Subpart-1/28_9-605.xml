@@ -1,0 +1,49 @@
+<level>
+  <type>section</type>
+  <num>28:9-605</num>
+  <heading>Unknown debtor or secondary obligor.</heading>
+  <text>A secured party does not owe a duty based on its status as secured party:</text>
+  <level>
+    <num>(1)</num>
+    <text>To a person that is a debtor or obligor, unless the secured party knows:</text>
+    <level>
+      <num>(A)</num>
+      <text>That the person is a debtor or obligor;</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The identity of the person; and</text>
+    </level>
+    <level>
+      <num>(C)</num>
+      <text>How to communicate with the person; or</text>
+    </level>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>To a secured party or lienholder that has filed a financing statement against a person, unless the secured party knows:</text>
+    <level>
+      <num>(A)</num>
+      <text>That the person is a debtor; and</text>
+    </level>
+    <level>
+      <num>(B)</num>
+      <text>The identity of the person.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>History</heading>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:9-601.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-201</heading>
+      <text>For Law 13-201, see notes following § 28:9-101.</text>
+    </level>
+  </level>
+</level>

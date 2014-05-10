@@ -2,7 +2,7 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>9</num>
-  <heading>Claims.</heading>
+  <heading>Claims</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-901.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-902.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-903.xml"/>
@@ -15,34 +15,6 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-910.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-911.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-912.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>20-913</section>
-    <heading>Contingent claim.</heading>
-    <formerly-cited-as>DC ST 1981 § 20-913</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Mar. 21, 1995, D.C. Law 10-241, § 3, 42 DCR 63.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 20-913.</text>
-        </level>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For legislative history of D.C. Law 10-241, see Historical and Statutory Notes following § 20-905.</text>
-        </level>
-        <level>
-          <heading>Miscellaneous Notes</heading>
-          <text>Application of Law 10-241: See Application of Law 10-241 and Emergency act amendment notes to § 20-905.</text>
-          <text>DC CODE § 20-913</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-913~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-914.xml"/>
 </level>

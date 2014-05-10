@@ -2,87 +2,15 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General Provisions. (Refs &amp; Annos)</heading>
-  <placeholder>
-    <type>Repealed</type>
-    <section>24-401</section>
-    <heading>Board of Indeterminate Sentence and Parole.</heading>
-    <formerly-cited-as>DC ST 1981 § 24-201</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(July 17, 1947, 61 Stat. 379, ch. 263, § 7.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 24-201.</text>
-          <text>DC CODE § 24-401</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
-  <placeholder>
-    <type>Repealed</type>
-    <section-start>24-401a</section-start>
-    <section-end>24-401b</section-end>
-    <section-range-type>range</section-range-type>
-    <heading>Board of Parole--Created; members; procedural rules; transfer of powers, employees, supplies and appropriations of Board of Indeterminate Sentence and Parole; duties of Parole Executive; cooperation of Department of Corrections.</heading>
-    <formerly-cited-as>DC ST 1981 § 24-201a, 24-201b</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Apr. 28, 1988, D.C. Law 7-103, § 5(a), 34 DCR 8279.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., §§ 24-201a, 24-201b.</text>
-        </level>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For legislative history of D.C. Law 7-103, see Historical and Statutory Notes following § 24-401.01.</text>
-          <text>DC CODE § 24-401a</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
-  <placeholder>
-    <type>Repealed</type>
-    <section-start>24-401a</section-start>
-    <section-end>24-401b</section-end>
-    <section-range-type>range</section-range-type>
-    <heading>Board of Parole--Created; members; procedural rules; transfer of powers, employees, supplies and appropriations of Board of Indeterminate Sentence and Parole; duties of Parole Executive; cooperation of Department of Corrections.</heading>
-    <formerly-cited-as>DC ST 1981 § 24-201a, 24-201b</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Apr. 28, 1988, D.C. Law 7-103, § 5(a), 34 DCR 8279.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., §§ 24-201a, 24-201b.</text>
-        </level>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For legislative history of D.C. Law 7-103, see Historical and Statutory Notes following § 24-401.01.</text>
-          <text>DC CODE § 24-401b</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <heading>General Provisions</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401a~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401b~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401c.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-401.03.xml"/>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-402.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-402~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-403.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-403.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-403.02.xml"/>

@@ -2,83 +2,9 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>XII</num>
-  <heading>Miscellaneous Provisions. [Repealed]</heading>
-  <placeholder>
-    <type>Repealed</type>
-    <section>33-112.01</section>
-    <heading>Uniformity of application and construction.</heading>
-    <formerly-cited-as>DC ST 1981 § 41-162.1</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Apr. 9, 1997, D.C. Law 11-234, § 1201, 44 DCR 777; July 2, 2011, D.C. Law 18-378, § 3(x), 58 DCR 1720.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 41-162.1.</text>
-        </level>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For legislative history of D.C. Law 11-234, see Historical and Statutory Notes following § 33-101.01.</text>
-          <text>For history of Law 18-378, see notes under § 33-101.01.</text>
-          <text>DC CODE § 33-112.01</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
-  <placeholder>
-    <type>Repealed</type>
-    <section>33-112.02</section>
-    <heading>Savings clause.</heading>
-    <formerly-cited-as>DC ST 1981 § 41-162.2</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Apr. 9, 1997, D.C. Law 11-234, § 1202, 44 DCR 777; July 2, 2011, D.C. Law 18-378, § 3(x), 58 DCR 1720.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 41-162.2.</text>
-        </level>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For legislative history of D.C. Law 11-234, see Historical and Statutory Notes following § 33-101.01.</text>
-          <text>For history of Law 18-378, see notes under § 33-101.01.</text>
-          <text>DC CODE § 33-112.02</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
-  <placeholder>
-    <type>Repealed</type>
-    <section>33-112.04</section>
-    <heading>Applicability.</heading>
-    <formerly-cited-as>DC ST 1981 § 41-162.3</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Apr. 9, 1997, D.C. Law 11-234, § 1204, 44 DCR 777; July 2, 2011, D.C. Law 18-378, § 3(x), 58 DCR 1720.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 41-162.3.</text>
-        </level>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For legislative history of D.C. Law 11-234, see Historical and Statutory Notes following § 33-101.01.</text>
-          <text>For history of Law 18-378, see notes under § 33-101.01.</text>
-          <text>DC CODE § 33-112.04</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <heading>Miscellaneous Provisions</heading>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="33-112.01~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="33-112.02~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="33-112.03~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="33-112.04~P.xml"/>
 </level>

@@ -2,7 +2,7 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>1</num>
-  <heading>Judgments and Decrees.</heading>
+  <heading>Judgments and Decrees</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-103.xml"/>
@@ -14,50 +14,5 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-109.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-110.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-111.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section-start>15-131</section-start>
-    <section-end>15-133</section-end>
-    <section-range-type>range</section-range-type>
-    <heading>Judgments and executions generally; interest; enforceable period of unrecorded judgments; enforcement of judgments, etc., of the District of Columbia Court of General Sessions; satisfaction of judgment; recordation.</heading>
-    <formerly-cited-as>DC ST 1981 § 15-131 to 15-133</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(July 29, 1970, 84 Stat. 553, Pub. L. 91-358, title I, § 144(4)(A).)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., §§ 15-131 to 15-133.</text>
-          <text>DC CODE § 15-131</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
-  <placeholder>
-    <type>Repealed</type>
-    <section-start>15-131</section-start>
-    <section-end>15-133</section-end>
-    <section-range-type>range</section-range-type>
-    <heading>Judgments and executions generally; interest; enforceable period of unrecorded judgments; enforcement of judgments, etc., of the District of Columbia Court of General Sessions; satisfaction of judgment; recordation.</heading>
-    <formerly-cited-as>DC ST 1981 § 15-131 to 15-133</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(July 29, 1970, 84 Stat. 553, Pub. L. 91-358, title I, § 144(4)(A).)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., §§ 15-131 to 15-133.</text>
-          <text>DC CODE § 15-133</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="15-131~15-133~P.xml"/>
 </level>

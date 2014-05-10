@@ -2,33 +2,13 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>13A</num>
-  <heading>Motor Vehicle Theft Prevention Commission.</heading>
+  <heading>Motor Vehicle Theft Prevention Commission</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1351.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1352.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1353.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1354.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1355.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>3-1356</section>
-    <heading>Establishment of Motor Vehicle Theft Prevention Fund.</heading>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(July 18, 2008, D.C. Law 17-197, § 7, 55 DCR 6277; Sept. 24, 2011, D.C. Law 19-21, § 9050(a)(2), 58 DCR 6226.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For Law 17-197, see notes following § 3-1351.</text>
-          <text>For history of Law 19-21, see notes under § 3-101.01.</text>
-          <text>DC CODE § 3-1356</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
-  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1357.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1356~P.xml"/>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1357~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="3-1358.xml"/>
 </level>
