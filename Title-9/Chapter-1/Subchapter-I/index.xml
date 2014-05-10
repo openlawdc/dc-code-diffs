@@ -2,35 +2,11 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General.</heading>
+  <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-101.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-101.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-101.03.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>9-101.04</section>
-    <heading>Abandonment or readjustment of streets to provide ground for educational, religious, or similar institutions.</heading>
-    <formerly-cited-as>DC ST 1981 § 7-113</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Mar. 10, 1983, D.C. Law 4-201, § 712, 30 DCR 148.)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 7-113.</text>
-        </level>
-        <level>
-          <heading>Legislative History of Laws</heading>
-          <text>For legislative history of D.C. Law 4-201, see Historical and Statutory Notes following § 9-113.01.</text>
-          <text>DC CODE § 9-101.04</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-101.04~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-101.05.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-101.06.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-101.07.xml"/>

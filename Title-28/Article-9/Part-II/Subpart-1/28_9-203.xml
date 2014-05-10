@@ -1,0 +1,108 @@
+<level>
+  <type>section</type>
+  <num>28:9-203</num>
+  <heading>Attachment and enforceability of security interest; proceeds; supporting obligations; formal requisites.</heading>
+  <level>
+    <num>(a)</num>
+    <text>A security interest attaches to collateral when it becomes enforceable against the debtor with respect to the collateral, unless an agreement expressly postpones the time of attachment.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>Except as otherwise provided in subsections (c) through (i), a security interest is enforceable against the debtor and third parties with respect to the collateral only if:</text>
+    <level>
+      <num>(1)</num>
+      <text>Value has been given;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The debtor has rights in the collateral or the power to transfer rights in the collateral to a secured party; and</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>One of the following conditions is met:</text>
+      <level>
+        <num>(A)</num>
+        <text>The debtor has authenticated a security agreement that provides a description of the collateral and, if the security interest covers timber to be cut, a description of the land concerned;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>The collateral is not a certificated security and is in the possession of the secured party under § 28:9-313 pursuant to the debtor's security agreement;</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>The collateral is a certificated security in registered form and the security certificate has been delivered to the secured party under § 28:8-301 pursuant to the debtor's security agreement; or</text>
+      </level>
+      <level>
+        <num>(D)</num>
+        <text>The collateral is deposit accounts, electronic chattel paper, investment property, letter-of-credit rights, or electronic documents, and the secured party has control under § 28:7-106, § 28:9-104, § 28:9-105, § 28:9-106, or § 28:9-107 pursuant to the debtor's security agreement.</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>Subsection (b) is subject to § 28:4-210 on the security interest of a collecting bank, § 28:5-118 on the security interest of a letter-of-credit issuer or nominated person, § 28:9-110 on a security interest arising under Article 2 or 2A, and § 28:9-206 on security interests in investment property.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>A person becomes bound as debtor by a security agreement entered into by another person if, by operation of law other than this article or by contract:</text>
+    <level>
+      <num>(1)</num>
+      <text>The security agreement becomes effective to create a security interest in the person's property; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The person becomes generally obligated for the obligations of the other person, including the obligation secured under the security agreement, and acquires or succeeds to all or substantially all of the assets of the other person.</text>
+    </level>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>If a new debtor becomes bound as debtor by a security agreement entered into by another person:</text>
+    <level>
+      <num>(1)</num>
+      <text>The agreement satisfies subsection (b)(3) of this section with respect to existing or after-acquired property of the new debtor to the extent the property is described in the agreement; and</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>Another agreement is not necessary to make a security interest in the property enforceable.</text>
+    </level>
+  </level>
+  <level>
+    <num>(f)</num>
+    <text>The attachment of a security interest in collateral gives the secured party the rights to proceeds provided by § 28:9-315 and is also attachment of a security interest in a supporting obligation for the collateral.</text>
+  </level>
+  <level>
+    <num>(g)</num>
+    <text>The attachment of a security interest in a right to payment or performance secured by a security interest or other lien on personal or real property is also attachment of a security interest in the security interest, mortgage, or other lien.</text>
+  </level>
+  <level>
+    <num>(h)</num>
+    <text>The attachment of a security interest in a securities account is also attachment of a security interest in the security entitlements carried in the securities account.</text>
+  </level>
+  <level>
+    <num>(i)</num>
+    <text>The attachment of a security interest in a commodity account is also attachment of a security interest in the commodity contracts carried in the commodity account.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>History</heading>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576; Apr. 27, 2013, D.C. Law 19-299, § 11(b), 60 DCR 2634.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:4-210, § 28:5-120, § 28:9-102, § 28:9-109, § 28:9-110, § 28:9-316, § 28:9-317, § 28:9-508, § 28:9-703, § 28:9-704, and § 28:9-709.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-299 rewrote (b)(3)(D), which read: "The collateral is deposit accounts, electronic chattel paper, investment property, or letter-of-credit rights, and the secured party has control under § 28:9-104, 28:9-105, 28:9-106, or 28:9-107 pursuant to the debtor's security agreement."</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-201</heading>
+      <text>For Law 13-201, see notes following § 28:9-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-299</heading>
+      <text>Law 19-299, the "Uniform Commercial Code Revision Act of 2012," was introduced in Council and assigned Bill No. 19-136. The Bill was adopted on first reading on Dec. 4, 2012. Signed by the Mayor on Feb. 8, 2013, it was assigned Act No. 19-667 and transmitted to Congress for its review. D.C. Law 19-299 became effective on Apr. 27, 2013.</text>
+    </level>
+  </level>
+</level>

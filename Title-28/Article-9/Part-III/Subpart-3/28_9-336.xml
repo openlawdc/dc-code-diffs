@@ -1,0 +1,52 @@
+<level>
+  <type>section</type>
+  <num>28:9-336</num>
+  <heading>Commingled goods.</heading>
+  <level>
+    <num>(a)</num>
+    <text>In this section, "commingled goods" means goods that are physically united with other goods in such a manner that their identity is lost in a product or mass.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>A security interest does not exist in commingled goods as such. However, a security interest may attach to a product or mass that results when goods become commingled goods.</text>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>If collateral becomes commingled goods, a security interest attaches to the product or mass.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>If a security interest in collateral is perfected before the collateral becomes commingled goods, the security interest that attaches to the product or mass under subsection (c) is perfected.</text>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>Except as otherwise provided in subsection (f), the other provisions of this part determine the priority of a security interest that attaches to the product or mass under subsection (c).</text>
+  </level>
+  <level>
+    <num>(f)</num>
+    <text>If more than one security interest attaches to the product or mass under subsection (c), the following rules determine priority:</text>
+    <level>
+      <num>(1)</num>
+      <text>A security interest that is perfected under subsection (d) has priority over a security interest that is unperfected at the time the collateral becomes commingled goods.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>If more than 1 security interest is perfected under subsection (d), the security interests rank equally in proportion to the value of the collateral at the time it became commingled goods.</text>
+    </level>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>History</heading>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:9-315.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-201</heading>
+      <text>For Law 13-201, see notes following § 28:9-101.</text>
+    </level>
+  </level>
+</level>

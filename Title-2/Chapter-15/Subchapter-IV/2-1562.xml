@@ -61,15 +61,16 @@
   <level>
     <type>annotations</type>
     <level>
-      <heading>CREDIT(S)</heading>
+      <heading>History</heading>
       <text>(June 25, 2002, D.C. Law 14-145, § 3, 49 DCR 4063.)</text>
     </level>
     <level>
-      <heading>HISTORICAL AND STATUTORY NOTES</heading>
-      <level>
-        <heading>Legislative History of Laws</heading>
-        <text>For Law 14-145, see notes following § 2-1561.</text>
-      </level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 2-1561.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 14-145</heading>
+      <text>For Law 14-145, see notes following § 2-1561.</text>
     </level>
   </level>
 </level>

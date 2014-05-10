@@ -2,7 +2,7 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Retirement Before June 30, 1946. (Refs &amp; Annos)</heading>
+  <heading>Retirement Before June 30, 1946</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.01.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.02.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.03.xml"/>
@@ -18,11 +18,7 @@
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.12.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.13.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.14.xml"/>
-  <placeholder>
-    <type>Omitted</type>
-    <section>38-2001.15</section>
-    <text>DC CODE § 38-2001.15</text>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.15~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.16.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.17.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.18.xml"/>

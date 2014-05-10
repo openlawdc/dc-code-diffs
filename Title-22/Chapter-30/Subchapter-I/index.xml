@@ -2,6 +2,6 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>General Provisions. (Refs &amp; Annos)</heading>
+  <heading>General Provisions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3001.xml"/>
 </level>

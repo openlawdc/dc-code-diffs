@@ -1,0 +1,104 @@
+<level>
+  <type>section</type>
+  <num>28:9-307</num>
+  <heading>Location of debtor.</heading>
+  <level>
+    <num>(a)</num>
+    <text>In this section, "place of business" means a place where a debtor conducts its affairs.</text>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>Except as otherwise provided in this section, the following rules determine a debtor's location:</text>
+    <level>
+      <num>(1)</num>
+      <text>An debtor who is an individual is located at the individual's principal residence.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>A debtor that is an organization and has only one place of business is located at its place of business.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>A debtor that is an organization and has more than 1 place of business is located at its chief executive office.</text>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>Subsection (b) applies only if a debtor's residence, place of business, or chief executive office, as applicable, is located in a jurisdiction whose law generally requires information concerning the existence of a nonpossessory security interest to be made generally available in a filing, recording, or registration system as a condition or result of the security interest's obtaining priority over the rights of a lien creditor with respect to the collateral. If subsection (b) does not apply, the debtor is located in the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>A person that ceases to exist, have a residence, or have a place of business continues to be located in the jurisdiction specified by subsections (b) and (c).</text>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>A registered organization that is organized under the law of a State is located in that State.</text>
+  </level>
+  <level>
+    <num>(f)</num>
+    <text>Except as otherwise provided in subsection (i), a registered organization that is organized under the law of the United States and a branch or agency of a bank that is not organized under the law of the United States or a State are located:</text>
+    <level>
+      <num>(1)</num>
+      <text>In the State that the law of the United States designates, if the law designates a State of location;</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>In the State that the registered organization, branch, or agency designates, if the law of the United States authorizes the registered organization, branch, or agency to designate its State of location, including by designating its main office, home office, or other comparable office; or</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>In the District of Columbia, if neither paragraph (1) nor paragraph (2) of this subsection applies.</text>
+    </level>
+  </level>
+  <level>
+    <num>(g)</num>
+    <text>A registered organization continues to be located in the jurisdiction specified by subsection (e) or (f) notwithstanding:</text>
+    <level>
+      <num>(1)</num>
+      <text>The suspension, revocation, forfeiture, or lapse of the registered organization's status as such in its jurisdiction of organization; or</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>The dissolution, winding up, or cancellation of the existence of the registered organization.</text>
+    </level>
+  </level>
+  <level>
+    <num>(h)</num>
+    <text>The United States is located in the District of Columbia.</text>
+  </level>
+  <level>
+    <num>(i)</num>
+    <text>A branch or agency of a bank that is not organized under the law of the United States or a State is located in the State in which the branch or agency is licensed, if all branches and agencies of the bank are licensed in only one State.</text>
+  </level>
+  <level>
+    <num>(j)</num>
+    <text>A foreign air carrier under the Federal Aviation Act of 1958, approved August 23, 1958 (72 Stat. 731; codified in scattered sections of the U.S. Code), as amended, is located at the designated office of the agent upon which service of process may be made on behalf of the carrier.</text>
+  </level>
+  <level>
+    <num>(k)</num>
+    <text>This section applies only for purposes of this part.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>History</heading>
+      <text>(Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576; May 1, 2013, D.C. Law 19-302, § 2(d), 60 DCR 2688.)</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-302 added "including by designating its main office, home office, or other comparable office" in (f)(2).</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 13-201</heading>
+      <text>For Law 13-201, see notes following § 28:9-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-302</heading>
+      <text>See note to § 28:9-102.</text>
+    </level>
+    <level>
+      <heading>Editor's Notes</heading>
+      <text>Applicability of D.C. Law 19-302: Section 4 of D.C. Law 19-302 provided that the act shall apply as of July 1, 2013.</text>
+    </level>
+  </level>
+</level>

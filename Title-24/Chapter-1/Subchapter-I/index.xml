@@ -2,17 +2,12 @@
   <type>toc</type>
   <prefix>Subchapter</prefix>
   <num>I</num>
-  <heading>Corrections.</heading>
+  <heading>Corrections</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-101.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-101a.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-102.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-103.xml"/>
-  <placeholder>
-    <type>Reserved</type>
-    <section>24-104</section>
-    <formerly-cited-as>DC ST 1981 § 24-1204</formerly-cited-as>
-    <text>DC CODE § 24-104</text>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-104~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-105.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="24-106.xml"/>
 </level>

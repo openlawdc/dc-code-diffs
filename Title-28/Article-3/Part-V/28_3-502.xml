@@ -1,0 +1,85 @@
+<level>
+  <type>section</type>
+  <num>28:3-502</num>
+  <heading>Dishonor.</heading>
+  <level>
+    <num>(a)</num>
+    <text>Dishonor of a note is governed by the following rules:</text>
+    <level>
+      <num>(1)</num>
+      <text>If the note is payable on demand, the note is dishonored if presentment is duly made to the maker and the note is not paid on the day of presentment.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>If the note is not payable on demand and is payable at or through a bank or the terms of the note require presentment, the note is dishonored if presentment is duly made and the note is not paid on the day it becomes payable or the day of presentment, whichever is later.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>If the note is not payable on demand and paragraph (2) of this subsection does not apply, the note is dishonored if it is not paid on the day it becomes payable.</text>
+    </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>Dishonor of an unaccepted draft other than a documentary draft is governed by the following rules:</text>
+    <level>
+      <num>(1)</num>
+      <text>If a check is duly presented for payment to the payor bank otherwise than for immediate payment over the counter, the check is dishonored if the payor bank makes timely return of the check or sends timely notice of dishonor or nonpayment under section 28:4-301 or 28:4-302, or becomes accountable for the amount of the check under section 28:4-302.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>If a draft is payable on demand and paragraph (1) of this subsection does not apply, the draft is dishonored if presentment for payment is duly made to the drawee and the draft is not paid on the day of presentment.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>If a draft is payable on a date stated in the draft, the draft is dishonored if (i) presentment for payment is duly made to the drawee and payment is not made on the day the draft becomes payable or the day of presentment, whichever is later, or (ii) presentment for acceptance is duly made before the day the draft becomes payable and the draft is not accepted on the day of presentment.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>If a draft is payable on elapse of a period of time after sight or acceptance, the draft is dishonored if presentment for acceptance is duly made and the draft is not accepted on the day of presentment.</text>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>Dishonor of an unaccepted documentary draft occurs according to the rules stated in subsection (b)(2), (3), and (4) of this section, except that payment or acceptance may be delayed without dishonor until no later than the close of the third business day of the drawee following the day on which payment or acceptance is required by those paragraphs.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>Dishonor of an accepted draft is governed by the following rules:</text>
+    <level>
+      <num>(1)</num>
+      <text>If the draft is payable on demand, the draft is dishonored if presentment for payment is duly made to the acceptor and the draft is not paid on the day of presentment.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>If the draft is not payable on demand, the draft is dishonored if presentment for payment is duly made to the acceptor and payment is not made on the day it becomes payable or the day of presentment, whichever is later.</text>
+    </level>
+  </level>
+  <level>
+    <num>(e)</num>
+    <text>In any case in which presentment is otherwise required for dishonor under this section and presentment is excused under section 28:3-504, dishonor occurs without presentment if the instrument is not duly accepted or paid.</text>
+  </level>
+  <level>
+    <num>(f)</num>
+    <text>If a draft is dishonored because timely acceptance of the draft was not made and the person entitled to demand acceptance consents to a late acceptance, from the time of acceptance the draft is treated as never having been dishonored.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>History</heading>
+      <text>(Dec. 30, 1963, 77 Stat. 689, Pub. L. 88-243, § 1; Mar. 23, 1995, D.C. Law 10-249, § 2(d), 42 DCR 467.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:2-103.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28:3-502.</text>
+      <text>1973 Ed., § 28:3-507.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 10-249</heading>
+      <text>For legislative history of D.C. Law 10-249, see Historical and Statutory Notes following § 28:3-101.</text>
+    </level>
+  </level>
+</level>

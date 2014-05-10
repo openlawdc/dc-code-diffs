@@ -2,31 +2,11 @@
   <type>toc</type>
   <prefix>Chapter</prefix>
   <num>2</num>
-  <heading>Budget Estimates.</heading>
+  <heading>Budget Estimates</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-201.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-202.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-203.xml"/>
-  <placeholder>
-    <type>Repealed</type>
-    <section>47-204</section>
-    <heading>Reimbursement of United States for expenses of United States District Court for the District of Columbia.</heading>
-    <formerly-cited-as>DC ST 1981 § 47-204</formerly-cited-as>
-    <level>
-      <type>annotations</type>
-      <level>
-        <heading>CREDIT(S)</heading>
-        <text>(Sept. 13, 1982, 96 Stat. 877, Pub. L. 97-258, § 5(b).)</text>
-      </level>
-      <level>
-        <heading>HISTORICAL AND STATUTORY NOTES</heading>
-        <level>
-          <heading>Prior Codifications</heading>
-          <text>1981 Ed., § 47-204.</text>
-          <text>DC CODE § 47-204</text>
-        </level>
-      </level>
-    </level>
-  </placeholder>
+  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-204~P.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-205.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-206.xml"/>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-207.xml"/>

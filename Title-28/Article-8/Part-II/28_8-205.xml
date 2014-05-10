@@ -1,0 +1,38 @@
+<level>
+  <type>section</type>
+  <num>28:8-205</num>
+  <heading>Effect of unauthorized signature on security certificate.</heading>
+  <text>An unauthorized signature placed on a security certificate before or in the course of issue is ineffective, but the signature is effective in favor of a purchaser for value of the certificated security if the purchaser is without notice of the lack of authority and the signing has been done by:</text>
+  <level>
+    <num>(1)</num>
+    <text>An authenticating trustee, registrar, transfer agent, or other person entrusted by the issuer with the signing of the security certificate or of similar security certificates, or the immediate preparation for signing of any of them; or</text>
+  </level>
+  <level>
+    <num>(2)</num>
+    <text>An employee of the issuer, or of any of the persons listed in paragraph (1) of this subsection, entrusted with responsible handling of the security certificate.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>History</heading>
+      <text>(Dec. 30, 1963, 77 Stat. 735, Pub. L. 88-243, § 1; Mar. 16, 1993, D.C. Law 9-196, § 4, 39 DCR 9165; Apr. 9, 1997, D.C. Law 11-240, § 2, 44 DCR 1087.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 28:8-202.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28:8-205.</text>
+      <text>1973 Ed., § 28:8-205.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-196</heading>
+      <text>For legislative history of D.C. Law 9-196, see Historical and Statutory Notes following § 28:8-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-240</heading>
+      <text>For legislative history of D.C. Law 11-240, see Historical and Statutory Notes following § 28:8-201.</text>
+    </level>
+  </level>
+</level>

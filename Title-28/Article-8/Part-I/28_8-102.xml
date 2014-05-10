@@ -1,0 +1,222 @@
+<level>
+  <type>section</type>
+  <num>28:8-102</num>
+  <heading>Definitions.</heading>
+  <level>
+    <num>(a)</num>
+    <text>For the purposes of this article, the term:</text>
+    <level>
+      <num>(1)</num>
+      <text>"Adverse claim" means a claim that a claimant has a property interest in a financial asset and that it is a violation of the rights of the claimant for another person to hold, transfer, or deal with the financial asset.</text>
+    </level>
+    <level>
+      <num>(2)</num>
+      <text>"Bearer form," as applied to a certificated security, means a form in which the security is payable to the bearer of the security certificate according to its terms but not by reason of an indorsement.</text>
+    </level>
+    <level>
+      <num>(3)</num>
+      <text>"Broker" means a person defined as a broker or dealer under the federal securities laws, but without excluding a bank acting in that capacity.</text>
+    </level>
+    <level>
+      <num>(4)</num>
+      <text>"Certificated security" means a security that is represented by a certificate.</text>
+    </level>
+    <level>
+      <num>(5)</num>
+      <text>"Clearing corporation" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>A person that is registered as a "clearing agency" under the federal securities laws;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A federal reserve bank; or</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <text>Any other person that provides clearance or settlement services with respect to financial assets that would require it to register as a clearing agency under the federal securities laws but for an exclusion or exemption from the registration requirement, if its activities as a clearing corporation, including promulgation of rules, are subject to regulation by a federal or state governmental authority.</text>
+      </level>
+    </level>
+    <level>
+      <num>(6)</num>
+      <text>"Communicate" means to:</text>
+      <level>
+        <num>(A)</num>
+        <text>Send a signed writing; or</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Transmit information by any mechanism agreed upon by the persons transmitting and receiving the information.</text>
+      </level>
+    </level>
+    <level>
+      <num>(7)</num>
+      <text>"Entitlement holder" means a person identified in the records of a securities intermediary as the person having a security entitlement against the securities intermediary. If a person acquires a security entitlement by virtue of § 28:8-501(b)(2) or (3), that person is the entitlement holder.</text>
+    </level>
+    <level>
+      <num>(8)</num>
+      <text>"Entitlement order" means a notification communicated to a securities intermediary directing transfer or redemption of a financial asset to which the entitlement holder has a security entitlement.</text>
+    </level>
+    <level>
+      <num>(9)</num>
+      <level>
+        <num>(A)</num>
+        <text>"Financial asset," except as otherwise provided in § 28:8-103, means:</text>
+        <level>
+          <num>(i)</num>
+          <text>A security;</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>An obligation of a person or a share, participation, or other interest in a person or in property or an enterprise of a person, which is, or is of a type, dealt in or traded on financial markets, or which is recognized in any area in which it is issued or dealt in as a medium for investment; or</text>
+        </level>
+        <level>
+          <num>(iii)</num>
+          <text>Any property that is held by a securities intermediary for another person in a securities account if the securities intermediary has expressly agreed with the other person that the property is to be treated as a financial asset under this article.</text>
+        </level>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>As context requires, the term "financial asset" means either the interest itself or the means by which a person's claim to it is evidenced, including a certificated or uncertificated security, a security certificate, or a security entitlement.</text>
+      </level>
+    </level>
+    <level>
+      <num>(10)</num>
+      <text>Repealed.</text>
+    </level>
+    <level>
+      <num>(11)</num>
+      <text>"Indorsement" means a signature that alone or accompanied by other words is made on a security certificate in registered form or on a separate document for the purpose of assigning, transferring, or redeeming the security or granting a power to assign, transfer, or redeem it.</text>
+    </level>
+    <level>
+      <num>(12)</num>
+      <text>"Instruction" means a notification communicated to the issuer of an uncertificated security which directs that the transfer of the security be registered or that the security be redeemed.</text>
+    </level>
+    <level>
+      <num>(13)</num>
+      <text>"Registered form," as applied to a certificated security, means a form in which:</text>
+      <level>
+        <num>(A)</num>
+        <text>The security certificate specifies a person entitled to the security; and</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A transfer of the security may be registered upon books maintained for that purpose by or on behalf of the issuer, or the security certificate so states.</text>
+      </level>
+    </level>
+    <level>
+      <num>(14)</num>
+      <text>"Securities intermediary" means:</text>
+      <level>
+        <num>(A)</num>
+        <text>A clearing corporation; or</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>A person, including a bank or broker, that in the ordinary course of its business maintains securities accounts for others and is acting in that capacity.</text>
+      </level>
+    </level>
+    <level>
+      <num>(15)</num>
+      <text>"Security," except as otherwise provided in § 28:8-103, means an obligation of an issuer or a share, participation, or other interest in an issuer or in property or an enterprise of an issuer which:</text>
+      <level>
+        <num>(A)</num>
+        <text>Is represented by a security certificate in bearer or registered form, or the transfer of which may be registered upon books maintained for that purpose by or on behalf of the issuer;</text>
+      </level>
+      <level>
+        <num>(B)</num>
+        <text>Is one of a class or series or by its terms is divisible into a class or series of shares, participations, interests, or obligations; and</text>
+      </level>
+      <level>
+        <num>(C)</num>
+        <level>
+          <num>(i)</num>
+          <text>Is, or is of a type, dealt in or traded on securities exchanges or securities markets; or</text>
+        </level>
+        <level>
+          <num>(ii)</num>
+          <text>Is a medium for investment and by its terms expressly provides that it is a security governed by this article.</text>
+        </level>
+      </level>
+    </level>
+    <level>
+      <num>(16)</num>
+      <text>"Security certificate" means a certificate representing a security.</text>
+    </level>
+    <level>
+      <num>(17)</num>
+      <text>"Security entitlement" means the rights and property interest of an entitlement holder with respect to a financial asset specified in Part 5.</text>
+    </level>
+    <level>
+      <num>(18)</num>
+      <text>"Uncertificated security" means a security that is not represented by a certificate.</text>
+    </level>
+  </level>
+  <level>
+    <num>(b)</num>
+    <text>Other definitions applying to this article and the sections in which they appear are:</text>
+    <level>
+      <type>form</type>
+      <text/>
+    </level>
+    <level>
+      <num>(1)</num>
+      <text>"Appropriate person". § 28:8-107. § 28:8-106. § 28:8-301. § 28:8-103. § 28:8-201. § 28:8-210. § 28:8-303. § 28:8-501.</text>
+      <level>
+        <type>form</type>
+        <text> 
+ (2) "Control".  
+ (3) "Delivery".  
+ (4) "Investment company security".  
+ (5) "Issuer".  
+ (6) "Overissue".  
+ (7) "Protected purchaser".  
+ (8) "Securities account".</text>
+      </level>
+    </level>
+  </level>
+  <level>
+    <num>(c)</num>
+    <text>In addition, Article 1 contains general definitions and principles of construction and interpretation applicable throughout this article.</text>
+  </level>
+  <level>
+    <num>(d)</num>
+    <text>The characterization of a person, business, or transaction for purposes of this article does not determine the characterization of the person, business, or transaction for purposes of any other law, regulation, or rule.</text>
+  </level>
+  <level>
+    <type>annotations</type>
+    <level>
+      <heading>History</heading>
+      <text>(Dec. 30, 1963, 77 Stat. 732, Pub. L. 88-243, § 1; Mar. 16, 1993, D.C. Law 9-196, § 4, 39 DCR 9165; Apr. 9, 1997, D.C. Law 11-240, § 2, 44 DCR 1087; Apr. 9, 1997, D.C. Law 11-255, § 27(yy), 44 DCR 1271; Apr. 27, 2013, D.C. Law 19-299, § 10(a), 60 DCR 2634.)</text>
+    </level>
+    <level>
+      <heading>Section References</heading>
+      <text>This section is referenced in § 1-204.90, § 28:4-104, § 28:8-103, and § 28:9-102.</text>
+    </level>
+    <level>
+      <heading>Prior Codifications</heading>
+      <text>1981 Ed., § 28:8-102.</text>
+      <text>1973 Ed., § 28:8-102.</text>
+    </level>
+    <level>
+      <heading>Effect of Amendments</heading>
+      <text>The 2013 amendment by D.C. Law 19-299 repealed (a)(10), defining "Good faith".</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 9-196</heading>
+      <text>For legislative history of D.C. Law 9-196, see Historical and Statutory Notes following § 28:8-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-240</heading>
+      <text>For legislative history of D.C. Law 11-240, see Historical and Statutory Notes following § 28:8-101.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 11-255</heading>
+      <text>Law 11-255, the "Second Technical Amendments Act of 1996," was introduced in Council and assigned Bill No. 11-905, which was referred to the Committee of the Whole. The Bill was adopted on first and second readings on November 7, 1996, and December 3, 1996, respectively. Signed by the Mayor on December 24, 1996, it was assigned Act No. 11-519 and transmitted to both Houses of Congress for its review. D.C. Law 11-255 became effective on April 9, 1997.</text>
+    </level>
+    <level>
+      <heading>Legislative History of Law 19-299</heading>
+      <text>Law 19-299, the "Uniform Commercial Code Revision Act of 2012," was introduced in Council and assigned Bill No. 19-136. The Bill was adopted on first reading on Dec. 4, 2012. Signed by the Mayor on Feb. 8, 2013, it was assigned Act No. 19-667 and transmitted to Congress for its review. D.C. Law 19-299 became effective on Apr. 27, 2013.</text>
+    </level>
+  </level>
+</level>

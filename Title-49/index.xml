@@ -2,18 +2,16 @@
   <type>toc</type>
   <prefix>Title</prefix>
   <num>49</num>
-  <heading>Military. (Refs &amp; Annos)</heading>
+  <heading>Military</heading>
   <level>
     <type>toc</type>
     <prefix>Subtitle</prefix>
     <num>I</num>
-    <heading>District of Columbia Military Organization.</heading>
+    <heading>District of Columbia Military Organization</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-2/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-3/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-4/index.xml"/>
-    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-4/index.xml"/>
-    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-5/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-6/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7/index.xml"/>
@@ -24,7 +22,14 @@
     <type>toc</type>
     <prefix>Subtitle</prefix>
     <num>II</num>
-    <heading>Office of Veterans Affairs.</heading>
+    <heading>Office of Veterans Affairs</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-10/index.xml"/>
+  </level>
+  <level>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
+    <num>III</num>
+    <heading>Military Compacts</heading>
+    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11/index.xml"/>
   </level>
 </level>
